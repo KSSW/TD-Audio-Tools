@@ -19,7 +19,7 @@ jobs:
           draft: false
           prerelease: false
 
-      # 如果不想上传source code zip或tar.gz，确保不在下面的步骤中添加这些文件
+      # source code zip或tar.gz，
       - name: Upload Release Asset
         uses: actions/upload-release-asset@v1
         env:
