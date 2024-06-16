@@ -14,3 +14,7 @@ Graphical interface version
 
 
 Core.exe or Core.dll Original Author = Donald Graft (donald.graft@cantab.net).
+
+Thank you to the original author 🙏🙏🙏
+
+Thank you filler56789 😀🙏🙏🙏
